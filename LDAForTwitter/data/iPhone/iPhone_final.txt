@@ -1,0 +1,100 @@
+Topic 0: screen:73 glass:71 protector:66 tempered:64 
+Score: 1.0617283950617284
+Topic 1: gameinsight:9 games:9 giveaway:8 love:6 
+Score: 1.3421052631578947
+Topic 2: samsung:20 tools:18 screwdriver:17 opening:17 
+Score: 1.2142857142857142
+Topic 3: case:19 deals:19 galaxy:12 waterproof:11 
+Score: 1.2093023255813953
+Topic 4: phone:26 samsung:24 mini:23 tablet:22 
+Score: 1.1794871794871795
+Topic 5: apple:217 smartphone:187 unlocked:156 gold:147 
+Score: 1.0046082949308757
+Topic 6: case:47 apple:20 lifeproof:14 excellent:13 
+Score: 1.8297872340425532
+Topic 7: cable:35 ipod:23 ipad:22 data:16 
+Score: 1.2280701754385965
+Topic 8: gray:196 space:194 apple:183 smartphone:126 
+Score: 1.0
+Topic 9: apple:127 unlocked:117 smartphone:112 factory:87 
+Score: 1.0413223140495869
+Topic 10: apple:194 unlocked:145 smartphone:93 silver:84 
+Score: 1.022099447513812
+Topic 11: case:36 mplusrewards:30 earning:30 life:16 
+Score: 1.3225806451612903
+Topic 12: case:80 cover:79 protector:75 screen:75 
+Score: 1.035294117647059
+Topic 13: apple:80 unlocked:56 verizon:51 white:50 
+Score: 1.0481927710843373
+Topic 14: case:30 phone:21 henna:18 plastic:14 
+Score: 1.1914893617021276
+Topic 15: case:25 thin:16 ultra:15 slim:14 
+Score: 1.048780487804878
+Topic 16: black:77 apple:55 good:42 smartphone:42 
+Score: 1.8488372093023255
+Topic 17: azan:38 free:37 store:29 technologies:29 
+Score: 1.0576923076923077
+Topic 18: apple:56 read:55 black:52 great:51 
+Score: 1.1973684210526316
+Topic 19: apple:11 photo:7 camera:7 mark:6 
+Score: 1.3095238095238095
+Topic 20: touch:40 screen:38 defender:30 ipad:29 
+Score: 1.0879120879120878
+Topic 21: apple:50 free:26 black:21 platic:19 
+Score: 1.0196078431372548
+Topic 22: apple:57 grey:53 space:52 smartphone:50 
+Score: 1.2444444444444445
+Topic 23: cell:27 battry:26 bloated:26 phone:26 
+Score: 1.3333333333333333
+Topic 24: mount:20 holder:18 stand:17 wireless:15 
+Score: 1.1777777777777778
+Topic 25: apple:48 parts:41 unlocked:25 white:24 
+Score: 1.0943396226415094
+Topic 26: case:98 cover:52 skin:46 apple:39 
+Score: 1.2537313432835822
+Topic 27: unlocked:70 phone:45 cell:41 smartphone:39 
+Score: 1.0379746835443038
+Topic 28: free:20 apps:18 itunes:15 android:13 
+Score: 1.4838709677419355
+Topic 29: apple:52 rose:26 silver:26 simatt:23 
+Score: 1.069767441860465
+Topic 30: mobile:27 brand:26 sealed:24 ringplus:23 
+Score: 1.2321428571428572
+Topic 31: samsung:56 smart:49 watch:48 bluetooth:46 
+Score: 2.306451612903226
+Topic 32: battery:7 life:6 dont:6 document:5 
+Score: 1.325
+Topic 33: games:12 free:9 arcade:8 skies:5 
+Score: 1.032258064516129
+Topic 34: apple:38 online:26 offline:17 cost:16 
+Score: 1.446808510638298
+Topic 35: great:20 tied:19 cellular:19 works:19 
+Score: 1.2926829268292683
+Topic 36: android:14 dont:10 phone:10 virtualtabletennis:4 
+Score: 1.2244897959183674
+Topic 37: reach:11 hope:10 photography:10 minimal:9 
+Score: 1.457142857142857
+Topic 38: sportcar:14 join:10 screen:10 giveaway:9 
+Score: 1.1951219512195121
+Topic 39: apple:14 india:12 reports:12 denies:12 
+Score: 1.5609756097560976
+Topic 40: games:58 gold:53 gameinsight:52 coins:51 
+Score: 1.0985915492957747
+Topic 41: games:65 gameinsight:41 food:26 harvested:26 
+Score: 1.3472222222222223
+Topic 42: case:43 ebay:24 phone:18 hard:17 
+Score: 1.2765957446808511
+Topic 43: hard:16 resistant:15 pink:15 olivia:13 
+Score: 1.1071428571428572
+Topic 44: case:62 leather:29 cover:23 wallet:22 
+Score: 1.1
+Topic 45: sale:21 pattern:15 vintage:14 transparent:14 
+Score: 1.08
+Topic 46: case:18 fitted:15 cover:15 white:14 
+Score: 1.1363636363636365
+Topic 47: ipad:22 cool:11 latest:10 wallpapers:10 
+Score: 1.3414634146341464
+Topic 48: entertainment:18 lifestyle:13 apple:11 telus:10 
+Score: 1.3333333333333333
+Topic 49: nytimes:9 holster:9 clip:8 belt:8 
+Score: 1.28125

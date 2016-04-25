@@ -1,0 +1,100 @@
+Topic 0: world:2 counter:2 completely:2 science:2 
+Score: 1.4285714285714286
+Topic 1: vote:6 debate:5 leave:4 absolutely:2 
+Score: 1.5
+Topic 2: obama:9 coming:3 backlash:2 views:2 
+Score: 1.0
+Topic 3: make:4 markurban:3 asks:3 safe:3 
+Score: 1.3333333333333333
+Topic 4: dont:8 economists:6 things:5 worry:3 
+Score: 1.6153846153846154
+Topic 5: worried:4 isnt:3 wont:3 contribute:2 
+Score: 1.0
+Topic 6: pivots:2 east:2 spike:1 crisis:1 
+Score: 1.25
+Topic 7: love:4 vote:4 referendum:3 country:3 
+Score: 2.1
+Topic 8: back:9 queue:6 obama:5 skynews:4 
+Score: 1.2
+Topic 9: class:9 obsessed:6 caste:6 britains:4 
+Score: 1.0
+Topic 10: political:4 back:3 difference:2 prodest:2 
+Score: 1.0
+Topic 11: support:2 british:2 stand:1 threat:1 
+Score: 1.6
+Topic 12: lexit:3 left:3 campaign:3 capitalism:2 
+Score: 1.2
+Topic 13: remain:6 plan:3 gdpukblog:2 dentistry:2 
+Score: 1.3076923076923077
+Topic 14: europe:14 obama:9 isolationism:8 populism:8 
+Score: 1.375
+Topic 15: politicoeurope:1 polarized:1 strikingly:1 spin:1 
+Score: 1.1666666666666667
+Topic 16: money:3 week:2 million:2 propaganda:2 
+Score: 1.25
+Topic 17: obamas:76 intervention:75 jumps:75 pound:74 
+Score: 1.3055555555555556
+Topic 18: vote:12 stay:4 people:3 person:2 
+Score: 1.3636363636363635
+Topic 19: lead:18 kingdom:17 breakup:17 united:17 
+Score: 1.1176470588235294
+Topic 20: cuts:2 britain:2 talking:1 police:1 
+Score: 1.5
+Topic 21: odds:2 brexpulsion:1 bring:1 staying:1 
+Score: 1.6666666666666667
+Topic 22: referendum:7 european:4 superstate:2 rights:2 
+Score: 1.6
+Topic 23: migrant:4 nurses:2 doctors:2 waiting:2 
+Score: 1.0
+Topic 24: afneil:3 thetortorian:3 davidcameron:3 doha:2 
+Score: 1.0
+Topic 25: rtoday:4 trade:4 major:3 movement:2 
+Score: 1.2857142857142858
+Topic 26: euref:9 voteleave:8 leaveeu:7 eureferendum:6 
+Score: 1.4
+Topic 27: fear:3 tories:3 friends:2 borisjohnson:2 
+Score: 1.4
+Topic 28: poll:4 shows:2 round:2 slight:1 
+Score: 1.0
+Topic 29: obamas:12 british:5 thoughts:4 warning:4 
+Score: 1.4444444444444444
+Topic 30: party:3 trigger:2 sturgeon:2 nicola:2 
+Score: 1.3333333333333333
+Topic 31: migration:5 warns:5 numbergov:3 freeforall:3 
+Score: 1.5454545454545454
+Topic 32: corbyn:2 nirp:1 peterlevring:1 rate:1 
+Score: 1.0
+Topic 33: cameron:3 lost:2 truth:1 clouding:1 
+Score: 1.4
+Topic 34: trade:29 obama:26 deal:16 post:12 
+Score: 1.2916666666666667
+Topic 35: ttip:8 blame:5 stop:5 leave:4 
+Score: 1.1538461538461537
+Topic 36: immigration:8 gove:4 control:3 dont:3 
+Score: 1.2
+Topic 37: people:4 remain:3 campaign:3 disenfranchised:2 
+Score: 1.4
+Topic 38: hilary:1 european:1 allowed:1 turkey:1 
+Score: 1.0
+Topic 39: strongerin:3 short:2 obamainuk:1 amass:1 
+Score: 1.25
+Topic 40: commissioner:2 great:2 lead:2 correct:1 
+Score: 1.3333333333333333
+Topic 41: boris:5 johnson:4 card:2 lead:2 
+Score: 1.5
+Topic 42: america:6 trump:3 trumptrain:2 cousins:1 
+Score: 1.3333333333333333
+Topic 43: britain:4 view:3 obama:3 confirms:2 
+Score: 1.1666666666666667
+Topic 44: good:5 give:4 euref:4 europe:4 
+Score: 1.1
+Topic 45: technology:6 sector:5 doesnt:2 security:2 
+Score: 1.1111111111111112
+Topic 46: plan:3 minutes:3 campaigners:2 johnrentoul:2 
+Score: 1.4285714285714286
+Topic 47: wales:3 govt:2 queue:2 countries:2 
+Score: 1.2
+Topic 48: visit:12 supported:7 obama:7 readers:6 
+Score: 1.1428571428571428
+Topic 49: voteleave:4 real:3 leave:3 week:3 
+Score: 1.0

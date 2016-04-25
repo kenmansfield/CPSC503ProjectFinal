@@ -1,0 +1,100 @@
+Topic 0: home:28 apple:28 button:27 ipad:27 
+Score: 1.027027027027027
+Topic 1: bluetooth:26 coins:24 collected:24 wireless:24 
+Score: 1.0714285714285714
+Topic 2: entertainment:11 lifestyle:9 samsung:8 garden:6 
+Score: 1.2758620689655173
+Topic 3: case:33 bling:25 cover:25 crystal:24 
+Score: 1.5277777777777777
+Topic 4: tough:9 phone:8 smartphones:7 find:7 
+Score: 1.3076923076923077
+Topic 5: case:34 screen:22 gaurd:20 dtech:20 
+Score: 1.0555555555555556
+Topic 6: apple:27 cable:14 sync:14 data:12 
+Score: 1.0
+Topic 7: apple:34 cell:26 unlocked:25 factory:18 
+Score: 1.1395348837209303
+Topic 8: island:17 games:11 sleeve:11 awesome:9 
+Score: 1.5263157894736843
+Topic 9: case:31 cellphone:28 charger:27 apple:27 
+Score: 1.119047619047619
+Topic 10: george:3 shine:3 areas:3 recreation:3 
+Score: 1.3571428571428572
+Topic 11: case:24 leather:21 wallet:19 cover:18 
+Score: 1.3714285714285714
+Topic 12: case:36 cover:27 skin:21 back:20 
+Score: 1.1176470588235294
+Topic 13: waterproof:8 case:8 nuud:6 lifeproof:6 
+Score: 1.3214285714285714
+Topic 14: watch:27 android:19 samsung:19 phone:19 
+Score: 1.2758620689655173
+Topic 15: phone:9 tellsitlikeitis:8 thedonald:8 shit:6 
+Score: 1.4761904761904763
+Topic 16: apple:18 cnet:11 drop:11 sales:11 
+Score: 1.206896551724138
+Topic 17: white:22 unlocked:14 refurbished:13 black:10 
+Score: 1.16
+Topic 18: case:8 wallet:7 cute:7 kgab:6 
+Score: 1.3333333333333333
+Topic 19: case:63 hard:60 shell:46 shock:31 
+Score: 1.5555555555555556
+Topic 20: ipad:23 apps:18 mobile:18 game:16 
+Score: 1.3
+Topic 21: giveaway:13 nytimes:11 trump:10 kasich:10 
+Score: 1.0909090909090908
+Topic 22: charger:72 cord:69 wholesale:68 cable:68 
+Score: 1.0365853658536586
+Topic 23: games:12 free:11 ipad:11 puzzle:7 
+Score: 1.411764705882353
+Topic 24: screen:51 protector:50 glass:50 tempered:46 
+Score: 1.0
+Topic 25: line:7 promo:6 twitterpinkonvdll:6 akunjimsmartthema:6 
+Score: 0.6842105263157895
+Topic 26: case:38 cover:23 hard:18 hybrid:14 
+Score: 1.048780487804878
+Topic 27: music:19 ipod:11 speaker:9 receiver:8 
+Score: 1.28
+Topic 28: charger:20 mini:14 ipad:11 speaker:8 
+Score: 1.1785714285714286
+Topic 29: apple:65 smartphone:50 latest:41 model:40 
+Score: 1.109375
+Topic 30: upward:14 inches:14 market:14 share:14 
+Score: 1.2083333333333333
+Topic 31: ipod:31 screen:30 touch:30 ipad:28 
+Score: 1.2340425531914894
+Topic 32: games:27 gameinsight:26 food:14 harvested:14 
+Score: 1.411764705882353
+Topic 33: news:8 google:5 apple:5 glasses:4 
+Score: 1.5
+Topic 34: ebay:8 photo:7 favorite:7 sprint:7 
+Score: 1.3636363636363635
+Topic 35: hard:44 case:44 heavy:41 duty:40 
+Score: 1.0
+Topic 36: case:18 otterbox:13 apple:10 defender:9 
+Score: 1.1666666666666667
+Topic 37: world:28 disney:28 walt:28 case:28 
+Score: 1.096774193548387
+Topic 38: dont:6 work:5 point:4 apples:4 
+Score: 1.4482758620689655
+Topic 39: apple:28 charging:23 cable:23 splusipadipod:22 
+Score: 1.0714285714285714
+Topic 40: rubber:6 slim:6 silicone:6 thin:6 
+Score: 1.1904761904761905
+Topic 41: apple:155 smartphone:127 unlocked:77 silver:72 
+Score: 1.0256410256410255
+Topic 42: mplusrewards:46 earning:46 dictionarycom:18 dictionarycomim:18 
+Score: 1.0555555555555556
+Topic 43: case:12 print:11 waterproof:11 lover:10 
+Score: 1.5384615384615385
+Topic 44: cover:7 awesome:6 case:6 full:5 
+Score: 1.3703703703703705
+Topic 45: video:17 youtube:15 game:7 giveaway:6 
+Score: 1.6129032258064515
+Topic 46: free:9 business:7 utilities:6 shipping:6 
+Score: 1.2173913043478262
+Topic 47: gamesgameinsight:19 reach:11 explored:11 task:7 
+Score: 1.5384615384615385
+Topic 48: games:30 free:10 skies:9 adventure:9 
+Score: 1.1379310344827587
+Topic 49: apple:84 smartphone:65 unlocked:59 black:47 
+Score: 1.0945945945945945
