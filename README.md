@@ -1,2 +1,2 @@
-# CPSC503ProjectFinal
-# CPSC503ProjectFinal
+### Repository for my final project for
+# CPSC 503 - Computational Lingustics
